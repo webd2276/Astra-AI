@@ -1,0 +1,8 @@
+{
+  "name": "Astra Agent AI",
+  "description": "A powerful hybrid platform combining a DeepSeek-style AI assistant with a Replit-like online IDE, powered by Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
